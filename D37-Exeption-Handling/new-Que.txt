@@ -1,0 +1,21 @@
+Write a Java program. The program should allow users to deposit, withdraw, and check their balance. Implement basic exception handling to ensure the program handles potential errors gracefully.
+
+Requirements:
+Bank Account Class:
+
+Implement a BankAccount class with the following functionalities:
+deposit(double amount): Adds the specified amount to the account balance.
+withdraw(double amount): Subtracts the specified amount from the account balance.
+getBalance(): Returns the current balance.
+Use instance variables to store the account balance.
+Exception Handling:
+
+Implement exception handling to handle the following scenarios:
+Negative deposit amount: Print "Deposit amount cannot be negative.".
+Negative withdrawal amount: Print "Withdrawal amount cannot be negative.".
+Insufficient funds for withdrawal: Print "Insufficient funds." if the withdrawal amount exceeds the current balance.
+User Interface:
+
+Implement a simple user interface using the main method where users can interact with their bank account.
+Prompt the user to choose an action (deposit, withdraw, check balance).
+Handle user input gracefully to ensure the program does not crash due to invalid input.

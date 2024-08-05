@@ -1,0 +1,64 @@
+Programs | Class Room Assignment-5
+
+1)WAP to print a statement 1000 number of times.
+2)WAP to print N natural number.  
+3)WAP to find out the sum of N natural number.
+4)WAP to print table of a number.
+5)WAP to find out the factorial of a number.
+6)WAP to find out the factors of a number.
+7)WAP to check whether entered number is prime or not.
+8)WAP to print Fibonacci series.
+9)WAP to print N even numbers.
+10)WAP to print Even numbers upto N.
+11)WAP to print N odd numbers.
+12)WAP to print Odd numbers upto N.
+13)WAP to print N natural numbers in reverse order
+14)WAP to print alphabets in uppercase
+15)WAP to print alphabets in lowercase
+16)…... -6	-3	0	3	6	9	……. n terms	 
+17)1 	2	 4	 7	 11	 16 	…… n terms
+18)1	2	2	4	8	32	…… n terms
+19)1	+	1/2	+	1/3	+	1/4	+	1/5	….. n terms(find out sum)
+20)0	7	14	21	28	35	…..
+21)1,	4,	9,	16,	25	…..
+22)1	8	27	64	125	…..
+23)1	9	25	49	81	…..
+24)0	4	16	36	64	….. 1 2 3 4 5 6 7 8
+25)1	27	125	343	…………	
+26)0	8	64	216	…………
+27)*	#	*	#	*	#	*	#	*	…….
+28)1	2	3	4	 Hello	6	7	8	9	Hello	11	12 ….
+29)1	11	111	1111	  11111	……
+30)1+11+111+1111+11111+…. 
+31)9	99	999	9999	  99999 …….
+32)A	b	C	d	E	f	G	h	…… n terms 
+33)WAP to print Alphabets in reversing order.
+34)WAP to check whether entered number is perfect or not
+35)WAP to count number of digits
+36)WAP to reverse a number
+37)WAP to check whether entered number is palindrome or not
+38)WAP to check whether entered number is Armstrong or not
+39)WAP to check whether entered number is strong or not
+40)WAP to count no. Of even and odd digits in a number
+41)WAP to find out LCM of a number
+42)WAP to find out HCF of a number
+43)WAP to convert binary number into decimal number
+44)WAP to interchange first and last digit of a number
+45)WAP to find out the sum of all the digits of a number
+46)WAP to find out the sum of first and last digit of a user entered number 
+47)WAP to print tables of all the numbers between two entered numbers
+48)WAP to find out the factors of all the numbers between two entered numbers
+49)WAP to find out all the perfect numbers between two entered numbers
+50)WAP to find out all the palindrome numbers between two entered numbers
+51)WAP to reverse all the numbers between two entered numbers
+52)WAP to find out all the Armstrong numbers between two entered numbers
+53)WAP to print all the strong numbers between two entered numbers
+54)WAP to print all the even numbers between two entered numbers
+55)WAP to print all the odd numbers between two entered numbers
+56)WAP to print factorial of all the numbers between two entered numbers
+57)WAP to print all the prime numbers between two entered numbers
+58)WAP to convert decimal number into binary number without using array
+59)WAP to find out the sum of all integer between 100 and 200 which are divisible by 9
+60)WAP to print Square, Cube and Square Root of all numbers from 1 to N
+61)WAP to find out all the leap years between two entered years
+ 

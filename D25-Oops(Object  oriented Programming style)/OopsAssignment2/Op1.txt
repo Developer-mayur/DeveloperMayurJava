@@ -1,0 +1,1 @@
+1) What is Inheritance ? Is Java Support the multiple inheritance ? If no then why.
