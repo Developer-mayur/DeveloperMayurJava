@@ -7,7 +7,7 @@ class p2{
 HashMap hm= new HashMap<>();
 
  hm.put(1,"mayur");
- hm.put(1,"kartik");
+ hm.put(2,"kartik");
 
 System.out.println(hm);
 

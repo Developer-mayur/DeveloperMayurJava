@@ -755,6 +755,9 @@ class Patterns2{
             }System.out.println();
          }
     }
+
+
+    
     //35.
 
     //     1
