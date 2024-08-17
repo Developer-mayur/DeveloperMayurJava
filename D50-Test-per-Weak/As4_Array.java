@@ -184,23 +184,90 @@ System.out.println(i);
 }
 
 
+// Q7.  
+// *                  *
+// **                **
+// ***              ***
+// ****            ****
+// *****          *****
+// ******        ******
+// *******      *******
+// ********    ********
+// *********  *********
+// ********************
 
 
+void m1(){
+    for(int i=1;i<=9;i++){
+       for(int j=1;j<=i;j++){
+            System.out.print("*");
 
+           }
+
+       for(int k=19;k!=i+i;k--){
+       
+          if(i==9){
+            System.out.print("*");
+          }
+          else{
+           System.out.print(" ");
+          }
+       }
+       for(int l=1; l<=i;l++){
+          System.out.print("*");
+       }
+  System.out.println();
+
+    }
+}
+
+
+// Q8.            m   
+// 1
+// 1*3
+// 1*3*5
+// 1*3*5*7
+// 1*3*5*7*9
+// 1*3*5*7*9*11
+// 1*3*5*7*9*11*13
+void m2(){
+
+for(int i=1; i<=7;i++){
+   for(int j=1; j<=i*2-1; j++){
+    if(j%2!=0){
+        System.out.print(j);
+    }
+    else
+    {
+        System.out.print("*");
+    }
+   }
+   System.out.println();
+
+}
 
 
 
 
 }
+
+}
+
+
+
+
+
 public class  As4_Array{
 public static void main(String []args){
 Array Ob = new Array();
 // Ob.peak();
 // Ob.M_M_element();
-Ob.Reverse_arrey();
+// Ob.Reverse_arrey();
 // Ob.sort();
 // Ob.Kth_Elements();
 // Ob.Int_array();
+Ob.m1();
+Ob.m2();
  }
 
 }
