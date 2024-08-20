@@ -1083,7 +1083,7 @@ void array_X_deccen_Y_decen_Z_merge_AB_Deccendding_31(){
     public static void main(String[] args) {
         // Scanner sc = new Scanner(System.in);
         Array arr = new Array();
-        // arr.peak_1();
+        arr.peak_1();
         // arr.min_max_2();
         // arr.reverse_3();
         // arr.reverse_3_2();
@@ -1116,7 +1116,7 @@ void array_X_deccen_Y_decen_Z_merge_AB_Deccendding_31(){
         // arr.find_val_presnt_or_not_array_by_Binary_Search_29();
         // arr.array_A_accen_B_decen_C_merge_AB_Accendding_30();
         // arr.array_X_deccen_Y_decen_Z_merge_AB_Deccendding_31();
-        arr.Even_odd_left_right_32();
+        // arr.Even_odd_left_right_32();
 
 
     }

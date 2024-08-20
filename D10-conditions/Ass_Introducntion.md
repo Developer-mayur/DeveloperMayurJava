@@ -7,6 +7,8 @@ Controlle Statement :-
       |--while
       |--do-while
       |--for
+      |--for-each
+
 ------------------------------------------------------------
 Sytax:-
   1. if(condition/boolean expression)      

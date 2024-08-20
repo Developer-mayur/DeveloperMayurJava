@@ -222,7 +222,7 @@ void m1(){
 }
 
 
-// Q8.            m   
+// Q8.             
 // 1
 // 1*3
 // 1*3*5
@@ -251,12 +251,39 @@ for(int i=1; i<=7;i++){
 
 }
 
+
+void m3(){
+int[] arr = {1,2,3,4,6,7,9};
+int count=1;
+for(int i=0; i<arr.length;i++){
+if(arr[i]!=count){
+       System.out.print(count+",");
+                  count++;
+                 i--;
+                 }
+else{
+    count++; 
+}
+
+}
+
+
+
 }
 
 
 
 
 
+
+
+
+void m4(){}
+
+
+
+
+}
 public class  As4_Array{
 public static void main(String []args){
 Array Ob = new Array();
@@ -267,7 +294,9 @@ Array Ob = new Array();
 // Ob.Kth_Elements();
 // Ob.Int_array();
 Ob.m1();
-Ob.m2();
+// Ob.m2();
+// Ob.m3();
+
  }
 
 }
