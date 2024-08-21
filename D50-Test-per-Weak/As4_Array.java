@@ -293,9 +293,9 @@ Array Ob = new Array();
 // Ob.sort();
 // Ob.Kth_Elements();
 // Ob.Int_array();
-Ob.m1();
+// Ob.m1();
 // Ob.m2();
-// Ob.m3();
+Ob.m3();
 
  }
 
