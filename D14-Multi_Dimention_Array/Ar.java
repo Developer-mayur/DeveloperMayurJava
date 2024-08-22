@@ -54,11 +54,13 @@ class Array{
         int n = sc.nextInt();
         System.out.print("Enter values in Array = ");
         int arr1[] = new int[n];
-        int max=0,min=2147483647;                              
+                                 
 
         for(int i=0; i<arr1.length; i++){
              arr1[i] = sc.nextInt();
         }
+         int max=arr1[0],min=arr1[0];   
+
         for(int j=0; j<arr1.length; j++){
             if(arr1[j]>max){
                 max=arr1[j];
@@ -1083,12 +1085,12 @@ void array_X_deccen_Y_decen_Z_merge_AB_Deccendding_31(){
     public static void main(String[] args) {
         // Scanner sc = new Scanner(System.in);
         Array arr = new Array();
-        arr.peak_1();
+        // arr.peak_1();
         // arr.min_max_2();
         // arr.reverse_3();
         // arr.reverse_3_2();
         // arr.reverse_3_3();
-        // arr.Short_4();
+        arr.Short_4();
         // arr.kth_larg_small_5();
         // arr.occurance_5_1();   
         // arr.Short_0s_1s_2s_6();    

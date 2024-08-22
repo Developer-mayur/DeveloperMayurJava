@@ -278,9 +278,33 @@ else{
 
 
 
-void m4(){}
+    void  longestConsecutive() {
+        int nums[] = {2,3,4,5,6,3,1};
+         for(int i=0; i<nums.length; i++){
+        for(int j=0; j<nums.length-1-i;j++)
+        if(nums[j]>nums[j+1]){
+        int temp =nums[j];
+        nums[j]=nums[j+1];
+        nums[j+1]=temp;
+        }
+    }
+int count =nums[0];
+for(int i=0; i<nums.length; i++){
+if(nums[i]!=count){
+    System.out.print(count);
+count++;
+i--;
+
+}
+else{
+count++;
+}
 
 
+
+}
+
+ }
 
 
 }
@@ -295,8 +319,8 @@ Array Ob = new Array();
 // Ob.Int_array();
 // Ob.m1();
 // Ob.m2();
-Ob.m3();
-
+// Ob.m3();
+Ob.longestConsecutive();
  }
 
 }
