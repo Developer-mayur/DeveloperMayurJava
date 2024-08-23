@@ -145,3 +145,15 @@ Q8.            m
 1*3*5*7*9
 1*3*5*7*9*11
 1*3*5*7*9*11*13
+
+
+
+Q1. Check if Two Strings Are Anagrams.
+
+
+
+
+Q2. Find the Longest Substring Without Repeating Characters.
+Q3. Rotate an Array.(Write a program to rotate the elements of an array to the right by k positions.)
+Q4. Write a program to merge two sorted arrays into a single sorted array without using any extra space.
+Q5. Write a program to check if a given string contains only numeric digits

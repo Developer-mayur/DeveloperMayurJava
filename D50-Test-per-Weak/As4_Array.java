@@ -306,6 +306,55 @@ count++;
 
  }
 
+// Q.3.Write a Java program to find all pairs of elements in an array whose sum is equal to a specified number.
+void m4(){
+int[] arr= {2,3,4,5,6,7};
+int n =11;
+for(int i=0; i<arr.length-1; i++){
+    for(int j=0; j<arr.length; j++){
+       if( arr[i]+arr[j]==n){
+        System.out.println(arr[i]+""+arr[j]);
+       }
+       } 
+      }
+
+}
+
+
+// Q1. Check if Two Strings Are Anagrams.
+void n1(){
+
+
+
+
+
+}
+
+// Q2. Find the Longest Substring Without Repeating Characters.
+// void n2(){
+    // String  str = "ABCABCDCBC",temp=" ";
+    // int i,j,ans ;
+    // for(int i=0; i<str.length(); i++){
+// 
+        // temp = " "+str.charAt(i);
+        // ans = "ABDC";
+        // int j=0;
+        // for(j=i+j; j<str.length();j++){
+// 
+// if(str.chatAt(i))
+        // }
+    // }
+// 
+// }
+
+
+
+
+
+
+
+
+
 
 }
 public class  As4_Array{
@@ -320,7 +369,8 @@ Array Ob = new Array();
 // Ob.m1();
 // Ob.m2();
 // Ob.m3();
-Ob.longestConsecutive();
+// Ob.longestConsecutive();
+Ob.m4();
  }
 
 }
