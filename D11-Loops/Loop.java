@@ -22,7 +22,7 @@ y1++;
 
 }
 
-public class M {
+public class Loop {
     public static void main(String[] args) {
         loops l = new loops();
         l.SixteyOne();
