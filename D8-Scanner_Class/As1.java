@@ -112,11 +112,15 @@ System.out.println("area =" +a);
 
 
 // 11. The base and height of a triangle are in the ratio 8 : 5 and its area is 320 m². Find the height and base of the triangle.
+void ratio(){
 
 int a=8,b=5;
 int c=1;
  double area = 320;
    
+}
+
+ 
 
 
 
@@ -139,8 +143,8 @@ Test Obj  = new Test();
     // Obj.triangle();
     // Obj.trangle_a();
     // Obj.trangle_ati();
-    Obj.equilateral();
-    Obj.isosceles();
+    // Obj.equilateral();
+    // Obj.isosceles();
   }
 }
 

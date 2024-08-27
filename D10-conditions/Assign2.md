@@ -183,7 +183,7 @@ Criteria basis
  
  Develop a Java Application to Generate the Bill in 
  Following Format
- 
+
                          D-Mart
    Name : Cheeku Sing			Date: 12/9/2022
    -----------------------------------------------------------

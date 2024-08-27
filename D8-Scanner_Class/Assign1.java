@@ -276,7 +276,7 @@ void twefour(){
 }
 
 
-public class j1_{
+public class Assign1{
     public static void main(String[] args){
         // Scanner sc = new Scanner(System .in);
         all obj = new all();   
