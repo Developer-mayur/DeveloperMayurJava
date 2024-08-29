@@ -1,3 +1,23 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "editor.defaultColorDecorators": true,
+    "diffEditor.wordWrap": "on",
+    "workbench.editor.alwaysShowEditorActions": true,
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "workbench.editor.chatSession": true,
+        "workbench.editorinputs.searchEditorInput": true
+    },
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.limit.enabled": true,
+    "workbench.editor.limit.excludeDirty": true,
+    "workbench.editor.limit.perEditorGroup": true,
+    "workbench.editor.pinnedTabsOnSeparateRow": true,
+    "scm.alwaysShowActions": true,
+    "git.allowNoVerifyCommit": true,
+    "git.allowForcePush": true,
+    "git.alwaysSignOff": true,
+    "git.alwaysShowStagedChangesResourceGroup": true
 }

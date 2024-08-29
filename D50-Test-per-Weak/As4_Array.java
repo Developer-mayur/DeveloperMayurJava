@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.Arrays;
 class Array{
 Scanner sc=new Scanner(System.in);
 
@@ -323,7 +324,7 @@ for(int i=0; i<arr.length-1; i++){
 
 // Q1. Check if Two Strings Are Anagrams.
 void n1(){
-
+String 
 
 
 
@@ -354,6 +355,42 @@ void n1(){
 
 
 
+//Q1 Write a Java program to convert an array to an ArrayList.
+void  Q1(){
+int arr{1,2,3,4,5,56,4};
+int [] a = new int [];
+a.copyof(arr,)
+}
+
+
+
+
+
+
+
+
+
+
+
+// Q7. WAP to Split a String into a Number of Substrings in Java
+void Q7(){
+String s1= {"dfjnks djnsdfjd  djsdsdj hsdhsdh sdfhsdfh"}
+
+for(int i=0; i<s1.length; i++){
+if(charAt(i)==" "){
+    System.out.println(i);
+}
+
+
+}
+
+
+
+}
+
+
+
+
 
 
 }
@@ -370,7 +407,9 @@ Array Ob = new Array();
 // Ob.m2();
 // Ob.m3();
 // Ob.longestConsecutive();
-Ob.m4();
+// Ob.m4();
+Ob.Q7();
+
  }
 
 }
