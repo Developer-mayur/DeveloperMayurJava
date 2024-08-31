@@ -116,11 +116,39 @@ for(int a : arr) {
     
       }
    }
-
-
-
-
 }
+
+
+// Q64.How to check if String is Palindrome?
+
+void t65(){
+
+  String s="MnyukyhEM";
+  // String str=s;
+  String str1=""    ;
+  for(int i=0; i<s.length(); i++){
+    char ch = s.charAt(i);
+    str1 = ch+str1;
+  }
+  
+//   for(int i=0; i<s.length();i++){ 
+//     for(int j=s.length()-1;j>=0; j--) {
+//       char c = s.charAt(i);  
+//       char p = s.charAt(j);  
+//       if(c==(j)){
+// System.out.println("polindrom");
+//          }  
+//          else{
+//           System.out.println("not");
+//          }
+
+//     }
+     
+      System.out.println(str1);
+
+ }  
+
+
 
 
 }
@@ -132,7 +160,8 @@ Question q = new Question();
 // q.t3();
 // q.t4();
 // q.t5();
-q.t6();
+// q.t6();
+q.t65();
  }
 
 }
