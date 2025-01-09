@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/D13-Array-1d/D13-Array-1d.iml" filepath="$PROJECT_DIR$/D13-Array-1d/D13-Array-1d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D25-Oops(Object  oriented Programming style)/D25-Oops(Object  oriented Programming style).iml" filepath="$PROJECT_DIR$/D25-Oops(Object  oriented Programming style)/D25-Oops(Object  oriented Programming style).iml" />
+      <module fileurl="file://$PROJECT_DIR$/D40-File-Handling/D40-File-Handling.iml" filepath="$PROJECT_DIR$/D40-File-Handling/D40-File-Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeveloperMayurJava.iml" filepath="$PROJECT_DIR$/DeveloperMayurJava.iml" />
+    </modules>
+  </component>
+</project>

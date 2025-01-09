@@ -1,6 +1,6 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
-    "editor.defaultColorDecorators": true,
+    "editor.defaultColorDecorators": "auto",
     "diffEditor.wordWrap": "on",
     "workbench.editor.alwaysShowEditorActions": true,
     "workbench.editor.autoLockGroups": {

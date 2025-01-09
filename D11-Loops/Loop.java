@@ -1,22 +1,21 @@
 import java.util.Scanner;
 class loops{
-    Scanner sc = new Scanner(System.in);
+    // 33)WAP to print Alphabets in reversing order.
+    void Alpha_Revers_33(){
+        Scanner sc = new Scanner(System.in);
+           int x =sc.nextInt();
+           
+        char i ;
+        i=(char)x;
+        while(i>=65){
+            System.out.print(" "+i);
+            i++;
 
-// 61)WAP to find out all the leap years between two entered years
-void  SixteyOne(){
-   int y1= sc.nextInt();
-   int y2= sc.nextInt();
-int p;
-while(y1<=y2){
-System.out.println(y1);
-p=y1%10;
-System.out.println(p);
-
-y1++;
-}
-
-
-}
+            if (i==91){
+                break;
+            }
+        }
+    }
 
 
 
@@ -25,7 +24,7 @@ y1++;
 public class Loop {
     public static void main(String[] args) {
         loops l = new loops();
-        l.SixteyOne();
+        l.Alpha_Revers_33();
      }
 }
 
