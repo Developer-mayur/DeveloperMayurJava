@@ -57,6 +57,7 @@ public class libreary {
         float price  =Float.parseFloat( sc.nextLine());
         int quantity = Integer.parseInt(  sc.nextLine());
         int avilable = Integer.parseInt(  sc.nextLine());
+
         
         Book b = new Book(id, bookTitle, autherName, price, quantity,avilable);
         b.display();
